@@ -1,0 +1,5 @@
+package modelo;
+
+public enum TipoCriatura {
+    ELFODOMESTICO, HIPOGRIFO, DEMENTOR, DRAGON, FENIX, ACROMANTULA, BASILISCO, HOMBRELOBO
+}
